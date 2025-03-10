@@ -38,7 +38,7 @@
 ---
 
 ## Projects:
-https://github.com/FadillahMuhesa?tab=projects
+https://github.com/FadillahMuhesa?tab=repositories
 
 ---
 
